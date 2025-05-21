@@ -17,16 +17,16 @@ while True:
         total_task = int(input("How Many Task You Want To Enter : "))
 
         for task in range(total_task):
-            task_id = task + 1
+            task_id = task + 1 
             task_title = input(f"Please Enter Title of Task {task_id}: ")
             detail = input("Enter Detail Of Your Task: ")
             # automatically assign initial status to each task.
-            user_task= todo.append({"Task_id":task_id,"Title":task_title,"Detail":detail, "Status":"initial"})   
+            todo.append({"Task_id":task_id,"Title":task_title,"Detail":detail, "Status":"initial"}) #direct append to list no need to assign it to any variable it takes more memory  
             
 # View Task
     elif choice == "2":
 
-        if not todo:
+        if not todo: #here not means Check the list is empty
             print("Lis Of Task Is Empty")
         else:
             all_task = input("Do You Want To Show All Task! Enter (Yes/no) : ")
