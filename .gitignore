@@ -171,4 +171,7 @@ cython_debug/
 .ruff_cache/
 
 # PyPI configuration file
-.pypirc
+
+Week1/basic_exercise.py
+Week1/factorial.py
+Week1/experiment.ipynb
