@@ -1,0 +1,5 @@
+this will erase all existing data 
+and write the new characterss
+this content is add to the end of the above file.
+this content is add by the writelines:
+second line is add by writelines 
