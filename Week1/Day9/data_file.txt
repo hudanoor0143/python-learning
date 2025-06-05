@@ -1,0 +1,7 @@
+Name: John D. Smith | Email: john.smith@example.com | Phone: (123) 456-7890 | Date: 2024-03-15 | IP: 192.168.1.1
+Name: Emily-Rose Clark | Email: emily.c@mydomain.net | Phone: 123.456.7890 | Date: 2023/12/01 | IP: 10.0.0.2
+Name: Ahmed Z | Email: az@hotmail.com | Phone: +1-800-555-0199 | Date: 15-Mar-2024 | IP: 172.16.0.5
+Name:  王小明 | Email: ming.wang@china.cn | Phone: 0086-10-65551234 | Date: 2024.06.03 | IP: 192.0.2.10
+Name: María González | Email: maria_g@example.org | Phone: (555)555-5555 | Date: 01.01.2024 | IP: 203.0.113.8
+Name: Robert\nInvalid Email | Email: robert[at]example[dot]com | Phone: None | Date: unknown | IP: 999.999.999.999
+Name: Alice Wonderland | Email: alice@wonder.land.uk | Phone: 555 123 4567 | Date: 2025-06-01 | IP: 8.8.8.8
