@@ -172,6 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 
-Week1/basic_exercise.py
+Week1/basic_exercise.ipynb
 Week1/factorial.py
-Week1/experiment.ipynb
+
+Week1/exception.py
+Week1/Day7/practice.ipynb
